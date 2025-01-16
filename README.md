@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024  <br>📘 Atualmente aprendendo novas tecnologias  <br>🎯 Objetivos: Me tornar um excelente desenvolvedor e compartilhar projetos no GitHub  <br>🎲 Curiosidade: Apaixonado por programação e estudante universitário de Ciências da Computação  <br>  <br>🌐 Intermediário em inglês  <br>💻 Tecnólogo em T.I.  <br>🚀 Projeto desenvolvido: Um site dinâmico em HTML, CSS e Java, com integração a banco de dados!</p>
+<p align="left">✨ Criando bugs desde 2024  <br>📘 Atualmente aprendendo novas tecnologias  <br>🎯 Objetivos: Me tornar um excelente desenvolvedor e compartilhar projetos no GitHub  <br>🎲 Curiosidade: Apaixonado por programação e estudante universitário de Ciências da Computação  <br>  <br>🌐 Intermediário em inglês  <br>💻 Tecnólogo em T.I.  <br>🚀 Projeto desenvolvido: Um site dinâmico em HTML, CSS e Java, com integração a banco de dados!<br>🚀 Projeto Em Desenvolvimento: Estou desenvolvendo um projeto full stack de 2025 para uma hamburgueria, que inclui um site e funcionalidades para automação do restaurante. O sistema permite realizar pedidos diretamente no restaurante, com opção de delivery, além de cadastro e gerenciamento de produtos. Utilizando tecnologias como SQL, JavaScript, HTML, CSS e PHP.</br></p>
 
 ###
 
